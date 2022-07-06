@@ -3,6 +3,9 @@
   padding: 0;
   font-family: sans-serif;
 }
+div{
+  padding: 100px 10px 10px 10px;
+}
 
 .banner {
   width: 100%;
@@ -48,8 +51,41 @@
   text-decoration: none;
   padding: 20px 50px;
   font-size: 30px;
+  text-align: bold;
   align-items: center;
   color: rgb(235, 221, 221);
   background-color: rgba(224, 53, 53, 0.658);
   bac
 }
+.body h3 {
+  color: black;
+  font-size: 50px;
+  text-align: center;
+
+}
+.body p {
+  color: black;
+  font-size: 25px;
+  margin-top: 15px;
+  text-align: center;
+}
+.container {
+  text-align: center;
+  margin-top: 360px;
+  
+}
+.btn {
+  border-style: inset;
+  background: rgb(241, 239, 231);
+  padding: 30px 20px;
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 75px;
+}
+.btn1 {border-style: none;}
+.btn2 {color: rgb(238, 12, 12);
+  border-color: rgb(231, 5, 5);
+}
+.btn3 {border-style: none;}
+.btn4 {border-style: none;}
+.btn5 {border-style: none;}
